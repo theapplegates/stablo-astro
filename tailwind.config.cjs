@@ -10,7 +10,7 @@ module.exports = {
         gray: colors.neutral,
       },
       fontFamily: {
-        sans: ["Inter Variable", "Inter", ...defaultTheme.fontFamily.sans],
+        sans: ["wotfardregular"],
       },
       aspectRatio: {
         "4/3": "4 / 3",
